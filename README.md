@@ -1,6 +1,6 @@
 # Vue 3 + Typescript + Vite
 
-This template should help get you started developing with Vue 3 and Typescript in Vite.
+Application to search for music using the [ITunes Api](https://itunes.apple.com/). Made with [Vue3](https://v3.vuejs.org/) and [Tailwindcss](https://tailwindcss.com/)
 
 ## Recommended IDE Setup
 

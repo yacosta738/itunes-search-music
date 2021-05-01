@@ -1,5 +1,5 @@
 {
-  "name": "youtube-ts-app",
+  "name": "itunes-search",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -17,5 +17,8 @@
     "tailwindcss": "^2.1.2",
     "typescript": "^4.1.3",
     "vite": "^2.0.5"
-  }
+  },
+  "author": "Yuniel Acosta",
+  "description": "Simple Music Search App",
+  "license": "BSD"
 }

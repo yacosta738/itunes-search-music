@@ -21,7 +21,7 @@
         </section>
       </div>
       <div class="flex justify-center items-center" v-else>
-        <img src="src/assets/acosta.png" alt="acosta"/>
+        <img src="./assets/acosta.png" alt="acosta"/>
       </div>
     </form>
   </div>

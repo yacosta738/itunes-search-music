@@ -2,6 +2,8 @@
 
 Application to search for music using the [ITunes Api](https://itunes.apple.com/). Made with [Vue3](https://v3.vuejs.org/) and [Tailwindcss](https://tailwindcss.com/)
 
+![screenshot](screenshots/ITunes_Desktop_movil.png)
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur). Make sure to enable `vetur.experimental.templateInterpolationService` in settings!

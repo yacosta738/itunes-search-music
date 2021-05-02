@@ -1,6 +1,7 @@
 {
   "name": "itunes-search",
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "description": "Simple Music Search App made with Vue 3, typescript,tailwindcss and vite",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -19,6 +20,20 @@
     "vite": "^2.0.5"
   },
   "author": "Yuniel Acosta",
-  "description": "Simple Music Search App",
-  "license": "BSD"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yacosta738/itunes-search-music.git"
+  },
+  "keywords": [
+    "itunes api",
+    "vue 3",
+    "vite",
+    "tailwindcss",
+    "typescript"
+  ],
+  "bugs": {
+    "url": "https://github.com/yacosta738/itunes-search-music/issues"
+  },
+  "homepage": "https://github.com/yacosta738/itunes-search-music#readme"
 }

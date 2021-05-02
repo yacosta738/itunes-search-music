@@ -8,5 +8,6 @@ export const itunesSearch = async (search: string): Promise<ItunesTypes> =>
           ["Content-Type", "text/plain"]
         ],
         credentials: "include",
+        referrerPolicy: 'origin-when-cross-origin', // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
       }
   ).then(val => val.json());

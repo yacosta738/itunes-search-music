@@ -1,23 +1,24 @@
 {
   "name": "itunes-search",
   "version": "0.1.0",
-  "description": "Simple Music Search App made with Vue 3, typescript,tailwindcss and vite",
+  "description": "Simple Music Search App made with Vue 3, typescript, tailwindcss and vite",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "vue": "^3.5.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^1.1.5",
-    "@vue/compiler-sfc": "^3.0.5",
-    "autoprefixer": "^10.2.5",
-    "postcss": "^8.2.13",
-    "tailwindcss": "^2.1.2",
-    "typescript": "^6.0.0",
-    "vite": "^2.0.5"
+    "@tailwindcss/postcss": "^4.0.0",
+    "@vitejs/plugin-vue": "^5.0.0",
+    "@vue/compiler-sfc": "^3.5.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^6.0.0"
   },
   "author": "Yuniel Acosta",
   "license": "ISC",

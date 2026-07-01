@@ -8,17 +8,17 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.0"
+    "vue": "^3.5.39"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.0.0",
+    "@tailwindcss/postcss": "^4.3.2",
     "@vitejs/plugin-vue": "^6.0.7",
     "@vue/compiler-sfc": "^3.5.0",
-    "autoprefixer": "^10.4.0",
-    "postcss": "^8.4.0",
+    "autoprefixer": "^10.5.2",
+    "postcss": "^8.5.16",
     "tailwindcss": "^4.0.0",
     "typescript": "^6.0.0",
-    "vite": "^8.0.16"
+    "vite": "^8.1.2"
   },
   "author": "Yuniel Acosta",
   "license": "ISC",
